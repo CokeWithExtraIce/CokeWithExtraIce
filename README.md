@@ -1,3 +1,14 @@
+## Projects
+
+### 팀 프로젝트
+[의상 추천 프로젝트](https://github.com/hannernos/Moeutto)
+[일기 작성 프로젝트](https://github.com/hannernos/pendy)
+[IoT 투표함 프로젝트](https://github.com/hannernos/Vote_with_your_cigarette_butts)
+
+### 개인 프로젝트
+[멀티스레드 프로젝트](https://github.com/CokeWithExtraIce/FCamera)
+
+### Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
